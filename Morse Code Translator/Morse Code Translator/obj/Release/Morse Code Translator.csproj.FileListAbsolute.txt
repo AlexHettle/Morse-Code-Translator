@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\SharpDevelop Projects\Morse Code Translator\Morse Code Translator\bin\Release\Morse Code Translator.exe
+C:\Users\Owner\Documents\SharpDevelop Projects\Morse Code Translator\Morse Code Translator\obj\Release\Morse Code Translator.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\SharpDevelop Projects\Morse Code Translator\Morse Code Translator\obj\Release\Morse_Code_Translator.MainForm.resources
+C:\Users\Owner\Documents\SharpDevelop Projects\Morse Code Translator\Morse Code Translator\obj\Release\Morse Code Translator.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\SharpDevelop Projects\Morse Code Translator\Morse Code Translator\obj\Release\Morse Code Translator.exe
