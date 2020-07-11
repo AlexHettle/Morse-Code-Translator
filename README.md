@@ -2,7 +2,7 @@
 <p> An application that takes in a phrase from the user and translates it into Morse code.
     <br> 
 </p>
-<img src="Pictures/Screenshot.PNG" width=500>
+<img src="Screenshot.PNG" width=500>
 
 ## Table of Contents
 - [About](#about)
